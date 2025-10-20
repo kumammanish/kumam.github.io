@@ -4,13 +4,13 @@ Modern, minimalist portfolio website for Azure Cloud Engineer, DevOps Engineer &
 
 🔗 **Live Site:** https://kumam.github.io
 
-## 🚀 About
+##  About
 
 Azure Cloud Engineer and FinOps Consultant with 12+ years of experience in cloud infrastructure management, DevOps automation, and enterprise cloud consulting. Specialized in achieving 20-30% cost optimization through FinOps strategies and improving system reliability through AI-powered automation.
 
 Currently based in Amsterdam, Netherlands, working as Senior DevOps Engineer and FinOps Consultant.
 
-## 🚀 Features
+##  Features
 
 - **Modern Design**: Clean, developer-focused aesthetic with smooth animations
 - **Fully Responsive**: Optimized for desktop, tablet, and mobile devices
@@ -41,7 +41,7 @@ kumam.github.io/
         └── profile.png    # Profile photo
 ```
 
-## 🎨 Customization
+##  Customization
 
 ### Already Configured
 
@@ -120,14 +120,14 @@ git push origin main
 # Changes will be live in 1-2 minutes
 ```
 
-## 📱 Social Links
+##  Social Links
 
 Add your profiles in the side panels:
 - GitHub: https://github.com/kumam
 - LinkedIn: https://www.linkedin.com/in/kumam/
 - Email: kumam.manish@gmail.com
 
-## ✅ Before Going Live
+##  Before Going Live
 
 - [ ] Replace all placeholder text
 - [ ] Add your profile photo (300x300px minimum, PNG format)
@@ -137,7 +137,7 @@ Add your profiles in the side panels:
 - [ ] Check email link opens mail client
 - [ ] Test on different browsers
 
-## 🌟 Features Breakdown
+##  Features Breakdown
 
 ### Navigation
 - Fixed header with smooth scroll
@@ -159,7 +159,7 @@ Add your profiles in the side panels:
 - Grayscale to color profile picture transition
 - Fixed social media sidebars (desktop)
 
-## 📈 Analytics (Optional)
+##  Analytics (Optional)
 
 Add Google Analytics by inserting before `</head>`:
 ```html
@@ -173,18 +173,18 @@ Add Google Analytics by inserting before `</head>`:
 </script>
 ```
 
-## 🔒 License
+## � License
 
 Free to use for personal portfolios. No attribution required.
 
-## 🐛 Issues?
+##  Issues?
 
 - **Profile image not showing**: Check path is `assets/images/profile.png`
 - **Layout broken**: Ensure all HTML tags are properly closed
 - **Mobile menu not working**: Check JavaScript console for errors
 - **Site not deploying**: Wait 10 minutes, verify repository is public
 
-## 💡 Tips
+##  Tips
 
 - Use high-quality profile photo (500x500px recommended)
 - Keep project descriptions concise (2-3 sentences)
@@ -192,12 +192,12 @@ Free to use for personal portfolios. No attribution required.
 - Test on actual mobile devices, not just browser resize
 - Update regularly with new projects and skills
 
-## 📧 Contact
+##  Contact
 
 Questions or collaboration opportunities? Reach out at kumam.manish@gmail.com
 
 ---
 
-**⭐ Azure Cloud Engineer | DevOps Engineer | Azure FinOps Consultant**
+** Azure Cloud Engineer | DevOps Engineer | Azure FinOps Consultant**
 
 Built with ❤️ | Hosted on GitHub Pages | Last updated: October 2025
