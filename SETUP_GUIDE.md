@@ -5,18 +5,18 @@ Follow these steps to get your portfolio live in 30 minutes!
 ## 📋 What You Have
 
 You now have all these files ready:
-1. ✅ `index.html` - Your complete portfolio website
-2. ✅ `README.md` - Documentation
-3. ✅ `.gitignore` - Git configuration
-4. ✅ This setup guide
+1.`index.html` - Your complete portfolio website
+2.`README.md` - Documentation
+3.`.gitignore` - Git configuration
+4.This setup guide
 
-## 🎯 What You Need
+##  What You Need
 
 - [ ] GitHub account ([create one](https://github.com/join))
 - [ ] Your profile photo (300x300px minimum, square format)
 - [ ] 30 minutes of time
 
-## 🚀 Step-by-Step Setup
+##  Step-by-Step Setup
 
 ### Step 1: Prepare Your Files (10 minutes)
 
@@ -84,11 +84,11 @@ Open `index.html` in a text editor and find/replace:
 #### 2.2 Configure Repository
 
 - **Repository name:** `[yourusername].github.io`
-  - ⚠️ Must be EXACTLY this format
+  -  Must be EXACTLY this format
   - Example: `kumam.github.io`
 - **Description:** "Personal portfolio website"
-- **Visibility:** ✅ Public (required for free GitHub Pages)
-- **Initialize:** ✅ Check "Add a README file"
+- **Visibility:**Public (required for free GitHub Pages)
+- **Initialize:**Check "Add a README file"
 - Click **"Create repository"**
 
 ---
@@ -149,7 +149,7 @@ git push -u origin main
    - Folder: **"/ (root)"**
 4. Click **"Save"**
 
-🎉 You'll see: "Your site is live at https://[yourusername].github.io"
+ You'll see: "Your site is live at https://[yourusername].github.io"
 
 ---
 
@@ -162,7 +162,7 @@ git push -u origin main
 
 2. **Check deployment status**:
    - Go to repository **"Actions"** tab
-   - Should see a green checkmark ✅
+   - Should see a green checkmark 
    - Or orange dot 🟠 (still deploying)
 
 3. **Visit your site**: `https://[yourusername].github.io`
@@ -177,7 +177,7 @@ git push -u origin main
 
 ---
 
-## ✅ Post-Launch Checklist
+##Post-Launch Checklist
 
 ### Content Verification
 - [ ] All `[placeholders]` replaced
@@ -241,7 +241,7 @@ git push -u origin main
 
 ---
 
-## 🔧 Common Issues & Solutions
+##  Common Issues & Solutions
 
 ### Issue: Site shows 404 error
 **Solutions:**
@@ -281,7 +281,7 @@ git push -u origin main
 
 ---
 
-## 📚 Additional Resources
+##  Additional Resources
 
 ### Learning
 - [GitHub Pages Docs](https://docs.github.com/en/pages)
@@ -301,7 +301,7 @@ git push -u origin main
 
 ---
 
-## 🆘 Need Help?
+##  Need Help?
 
 ### Quick Help
 1. **Check this guide again** - Most issues covered above
@@ -316,11 +316,11 @@ git push -u origin main
 
 ---
 
-## 🎉 Success!
+##  Success!
 
 Once your site is live:
 
-1. **Celebrate!** 🎊 You just built and deployed a professional portfolio!
+1. **Celebrate!**  You just built and deployed a professional portfolio!
 
 2. **Share everywhere**:
    - LinkedIn profile → Featured section
@@ -344,7 +344,7 @@ Once your site is live:
 - Check repository is Public
 - Verify file paths are correct
 
-**You've got this! 🚀**
+**You've got this!**
 
 ---
 

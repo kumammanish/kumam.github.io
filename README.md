@@ -21,7 +21,7 @@ Currently based in Amsterdam, Netherlands, working as Senior DevOps Engineer and
 - **Skills Display**: Organized technology categories
 - **SEO Optimized**: Meta tags for social media sharing
 
-## 🛠️ Built With
+##  Built With
 
 - HTML5
 - CSS3 (CSS Grid, Flexbox, Animations)
@@ -29,7 +29,7 @@ Currently based in Amsterdam, Netherlands, working as Senior DevOps Engineer and
 - Font Awesome Icons
 - Google Fonts (Inter)
 
-## 📁 Structure
+##  Structure
 
 ```
 kumam.github.io/
@@ -95,7 +95,7 @@ Modify CSS variables in `:root`:
 4. **Wait 5-10 minutes**
    - Your site will be live at `https://[yourusername].github.io`
 
-## 💻 Local Development
+##  Local Development
 
 ```bash
 # Clone repository
@@ -107,7 +107,7 @@ open index.html
 python -m http.server 8000
 ```
 
-## 🔄 Making Updates
+##  Making Updates
 
 ```bash
 # Make changes to files
