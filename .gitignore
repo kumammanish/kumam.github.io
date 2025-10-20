@@ -1,0 +1,75 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.stackdump
+
+# Linux
+*~
+.directory
+.fuse_hidden*
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Node (if you add build tools later)
+node_modules/
+npm-debug.log
+yarn-error.log
+.npm
+.yarn
+
+# Build outputs (if you add them later)
+dist/
+build/
+.next/
+out/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Image editing files
+*.psd
+*.ai
+*.sketch
+*.fig
+
+# Backup files
+*.backup
+*.old
+
+# OS generated files
+Icon?
+.DocumentRevisions-V100
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
